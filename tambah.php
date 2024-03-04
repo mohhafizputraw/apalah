@@ -6,6 +6,8 @@
 <body>
     <h2>Tambah Data Siswa</h2>
 
+    <h2> HILSA GANTENG</h2>
+
     <form method="post" action="tambah-proses.php">
         <label>NIS:</label><br/>
         <input type="text" name="nis" required/><br/>
